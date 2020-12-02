@@ -4,13 +4,13 @@
 *Esto es una página web, creada para un trabajo sobre GIT*
 
 
-https://htmlpreview.github.io/?https://github.com/capitansalami69/Hello-HTML/blob/main/index.html
+https://htmlpreview.github.io/?https://github.com/Albertnievess/Hello-HTML/blob/main/index.html
 
 ```
 **Para descargar el codigo:**
 
 
-*git clone https://github.com/capitansalami69/Hello-HTML.git*	
+*git clone https://github.com/Albertnievess/Hello-HTML.git*	
 
 ```
-Joel Rivera
+Albert Nieves
